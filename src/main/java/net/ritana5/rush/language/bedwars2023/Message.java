@@ -21,7 +21,7 @@ public class Message {
                     "&f&l                       Bed Wars Rush",
                     "",
                     "&e&l        All generators are maxed! Your bed has three",
-                    "&e&l       layers of protection! Left click while holding",
+                    "&e&l       layers of protection! Left click while holding"
                     "&e&l             wool to activate bridge building!",
                     "",
                     "&a" + "▬".repeat(72)));
